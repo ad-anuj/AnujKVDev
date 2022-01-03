@@ -7,7 +7,7 @@
     src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13" /> <b>India</b>.
   <br />
   My passion for software lies with dreaming up ideas and making them come true through code. I take great care in the
-  experience, architecture, and code quality of the things I build. I'm continuously learning and improving my technical, social and interpersonal skills.
+  experience, architecture, and code quality of the things I build.
   <br />
   Besides programming, I have an immense interest in music.
 </p>
@@ -33,6 +33,9 @@
     src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Bitbucket"
+    src="https://img.shields.io/badge/Bitbucket-330F63?style=flat-square&logo=bitbucket&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
@@ -40,7 +43,7 @@
       src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> <a
     href="https://twitter.com/" target="_blank"><img alt="Twitter"
       src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> <a
-    href="https://www.linkedin.com/in/" target="_blank"><img alt="LinkedIn"
+    href="https://www.linkedin.com/in/anuj-kumar-119733192/" target="_blank"><img alt="LinkedIn"
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
