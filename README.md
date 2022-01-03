@@ -6,8 +6,8 @@
   Welcome to my github page! </br> I'm Anuj, a passionate Fullstack Web developer from <img
     src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13" /> <b>India</b>.
   <br />
-  Continuously learning and improving my technical, social and interpersonal skills. My passion for software lies with dreaming up ideas and making them come true through code. I take great care in the
-  experience, architecture, and code quality of the things I build.
+  My passion for software lies with dreaming up ideas and making them come true through code. I take great care in the
+  experience, architecture, and code quality of the things I build. I'm continuously learning and improving my technical, social and interpersonal skills.
   <br />
   Besides programming, I have an immense interest in music.
 </p>
