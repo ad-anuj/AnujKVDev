@@ -11,7 +11,7 @@
   <br />
   Besides programming, I have an immense interest in music.
   <br />
-  Feel free to explore my repositories to see some of the projects I've worked on. I’m always open to collaboration and new opportunities!
+  Feel free to explore my repositories to see some of the projects I've worked on. I’m always open to collaboration and new opportunities.
 </p>
 
 <h3>Things I code with</h3>
